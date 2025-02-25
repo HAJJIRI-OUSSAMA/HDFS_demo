@@ -24,7 +24,7 @@ git clone <repository_url>
 cd <repository_name>
 ```
 
-### Step 2: Start the HDFS Cluster
+### Step 2: Start the HDFS Cluster (cd HDFSCuster)
 ```sh
 docker-compose up -d
 ```
